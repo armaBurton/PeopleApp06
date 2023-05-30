@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\001 work\\projects\\c#\\cs11dotnet7\\Chapter06\\PeopleApp06\\PeopleApp06.csproj": {}
+    "d:\\001 work\\projects\\c#\\cs11dotnet7\\Chapter06\\PeopleApp06\\PeopleApp06.csproj": {}
   },
   "projects": {
-    "D:\\001 work\\projects\\c#\\cs11dotnet7\\Chapter06\\PeopleApp06\\PeopleApp06.csproj": {
+    "d:\\001 work\\projects\\c#\\cs11dotnet7\\Chapter06\\PeopleApp06\\PeopleApp06.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\001 work\\projects\\c#\\cs11dotnet7\\Chapter06\\PeopleApp06\\PeopleApp06.csproj",
+        "projectUniqueName": "d:\\001 work\\projects\\c#\\cs11dotnet7\\Chapter06\\PeopleApp06\\PeopleApp06.csproj",
         "projectName": "PeopleApp06",
-        "projectPath": "D:\\001 work\\projects\\c#\\cs11dotnet7\\Chapter06\\PeopleApp06\\PeopleApp06.csproj",
+        "projectPath": "d:\\001 work\\projects\\c#\\cs11dotnet7\\Chapter06\\PeopleApp06\\PeopleApp06.csproj",
         "packagesPath": "C:\\Users\\arman\\.nuget\\packages\\",
-        "outputPath": "D:\\001 work\\projects\\c#\\cs11dotnet7\\Chapter06\\PeopleApp06\\obj\\",
+        "outputPath": "d:\\001 work\\projects\\c#\\cs11dotnet7\\Chapter06\\PeopleApp06\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\arman\\AppData\\Roaming\\NuGet\\NuGet.Config",
