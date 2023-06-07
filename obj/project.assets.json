@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "PacktLibrary06/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/PacktLibrary06.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PacktLibrary06.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "PacktLibrary06/1.0.0": {
+      "type": "project",
+      "path": "../PacktLibrary06/PacktLibrary06.csproj",
+      "msbuildProject": "../PacktLibrary06/PacktLibrary06.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "PacktLibrary06 >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Arma\\.nuget\\packages\\": {}
@@ -31,7 +50,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Arma\\000 Work\\Code\\C#\\C#11Net7\\chapter06\\PacktLibrary06\\PacktLibrary06.csproj": {
+              "projectPath": "C:\\Users\\Arma\\000 Work\\Code\\C#\\C#11Net7\\chapter06\\PacktLibrary06\\PacktLibrary06.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
