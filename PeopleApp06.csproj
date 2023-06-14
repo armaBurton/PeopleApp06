@@ -11,7 +11,7 @@
     <Using Include="System.Console" Static="true" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\PacktLibrary06\PacktLibrary06.csproj" />
+    <ProjectReference Include="../PacktLibrary06/PacktLibrary06.csproj" />
   </ItemGroup>
 
 </Project>

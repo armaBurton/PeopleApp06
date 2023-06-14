@@ -3,3 +3,16 @@ C:\Users\Arma\000 Work\Code\C#\C#11Net7\chapter06\PeopleApp06\obj\Debug\net7.0\P
 C:\Users\Arma\000 Work\Code\C#\C#11Net7\chapter06\PeopleApp06\obj\Debug\net7.0\PeopleApp06.AssemblyInfoInputs.cache
 C:\Users\Arma\000 Work\Code\C#\C#11Net7\chapter06\PeopleApp06\obj\Debug\net7.0\PeopleApp06.AssemblyInfo.cs
 C:\Users\Arma\000 Work\Code\C#\C#11Net7\chapter06\PeopleApp06\obj\Debug\net7.0\PeopleApp06.csproj.CoreCompileInputs.cache
+C:\Users\Arma\000 Work\Code\C#\C#11Net7\chapter06\PeopleApp06\bin\Debug\net7.0\PeopleApp06.exe
+C:\Users\Arma\000 Work\Code\C#\C#11Net7\chapter06\PeopleApp06\bin\Debug\net7.0\PeopleApp06.deps.json
+C:\Users\Arma\000 Work\Code\C#\C#11Net7\chapter06\PeopleApp06\bin\Debug\net7.0\PeopleApp06.runtimeconfig.json
+C:\Users\Arma\000 Work\Code\C#\C#11Net7\chapter06\PeopleApp06\bin\Debug\net7.0\PeopleApp06.dll
+C:\Users\Arma\000 Work\Code\C#\C#11Net7\chapter06\PeopleApp06\bin\Debug\net7.0\PeopleApp06.pdb
+C:\Users\Arma\000 Work\Code\C#\C#11Net7\chapter06\PeopleApp06\bin\Debug\net7.0\PacktLibrary06.dll
+C:\Users\Arma\000 Work\Code\C#\C#11Net7\chapter06\PeopleApp06\bin\Debug\net7.0\PacktLibrary06.pdb
+C:\Users\Arma\000 Work\Code\C#\C#11Net7\chapter06\PeopleApp06\obj\Debug\net7.0\PeopleApp06.csproj.CopyComplete
+C:\Users\Arma\000 Work\Code\C#\C#11Net7\chapter06\PeopleApp06\obj\Debug\net7.0\PeopleApp06.dll
+C:\Users\Arma\000 Work\Code\C#\C#11Net7\chapter06\PeopleApp06\obj\Debug\net7.0\refint\PeopleApp06.dll
+C:\Users\Arma\000 Work\Code\C#\C#11Net7\chapter06\PeopleApp06\obj\Debug\net7.0\PeopleApp06.pdb
+C:\Users\Arma\000 Work\Code\C#\C#11Net7\chapter06\PeopleApp06\obj\Debug\net7.0\PeopleApp06.genruntimeconfig.cache
+C:\Users\Arma\000 Work\Code\C#\C#11Net7\chapter06\PeopleApp06\obj\Debug\net7.0\ref\PeopleApp06.dll
