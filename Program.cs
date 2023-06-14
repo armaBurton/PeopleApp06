@@ -14,3 +14,9 @@ lookUpObject.Add(key: 2, value: "Beta");
 lookUpObject.Add(key: 3, value: "Gamma");
 lookUpObject.Add(key: harry, value: "Delta");
 
+int key = 2;
+
+WriteLine(format: "Key {0} has value: {1}.",
+    arg0: key,
+    arg1: lookUpObject[key]            
+);      
