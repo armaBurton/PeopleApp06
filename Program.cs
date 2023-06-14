@@ -20,3 +20,13 @@ WriteLine(format: "Key {0} has value: {1}.",
     arg0: key,
     arg1: lookUpObject[key]            
 );      
+
+WriteLine(format: "Key {0} has value: {1}.",
+    arg0: harry,
+    arg1: lookUpObject[harry]            
+);      
+
+WriteLine();
+
+//generic lookup collection
+Dictionary<int, string> lookupIntString = new();
