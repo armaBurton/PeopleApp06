@@ -1,5 +1,4 @@
-PeopleApp06.dll
-PeopleApp06.pdb
-
+*.dll
+*.pdb
 *.cache
 *.editorconfig
