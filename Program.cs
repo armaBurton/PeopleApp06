@@ -67,3 +67,6 @@ Array.Sort(people);
 
 OutputPeopleNames(people, "After sorting using Person's IComparable implementation:");
 
+Array.Sort(people, new PersonComparer());
+
+OutputPeoplesNames(people, "After sorting using PersonComparer's IComparer implementation:");
