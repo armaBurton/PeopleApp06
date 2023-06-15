@@ -44,6 +44,7 @@ WriteLine(format: "Key {0} has value: {1}.",
 WriteLine();
 
 harry.Shout += Harry_Shout;
+harry.Shout += Harry_Shout2;
 
 harry.Poke();
 harry.Poke();
