@@ -99,3 +99,8 @@ DisplacementVector dv1 = new(3, 5);
 DisplacementVector dv2 = new(-2, 7);
 DisplacementVector dv3 = dv1 + dv2;
 WriteLine($"({dv1.X}, {dv1.Y}) + ({dv2.X}, {dv2.Y}) = ({dv3.X}, {dv3.Y})");
+WriteLine();
+
+DisplacementVector dv4 = new();
+WriteLine($"({dv4.X}, {dv4.Y})");
+
