@@ -109,4 +109,5 @@ Employee john = new(){
     Name = "John Jones",
     DateOfBirth = new(year:1990, month: 7, day: 28)
 };
+
 john.WriteToConsole();
