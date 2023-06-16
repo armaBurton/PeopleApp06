@@ -103,4 +103,10 @@ WriteLine();
 
 DisplacementVector dv4 = new();
 WriteLine($"({dv4.X}, {dv4.Y})");
+WriteLine();
 
+Employee john = new(){
+    Name = "John Jones",
+    DateOfBirth = new(year:1990, month: 7, day: 28)
+};
+john.WriteToConsole();
