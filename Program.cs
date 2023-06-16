@@ -70,3 +70,9 @@ OutputPeopleNames(people, "After sorting using Person's IComparable implementati
 Array.Sort(people, new PersonComparer());
 
 OutputPeopleNames(people, "After sorting using PersonComparer's IComparer implementation:");
+
+int a = 3;
+int b = 3;
+
+WriteLine($"a: {a}, b: {b}");
+WriteLine($"a == b: {(a == b)}");
